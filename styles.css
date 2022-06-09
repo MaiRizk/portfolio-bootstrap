@@ -4,7 +4,29 @@ header {
   background-color: #3e3c3c;
 }
 
-section, .container .row .col h2 {
+.info {
+  color: #f55800;
+  font-size: 72px;
+}
+
+.info-container {
+  padding-top: 250px;
+}
+
+.intro-section {
+  background-color: #1c1a19;
+  background-image: url(./images/intro-bg.svg);
+  background-repeat: no-repeat;
+  background-position: 100% 30%;
+  padding-bottom: 290px;
+  height: calc(100vh - 90px);
+}
+
+.intro-section ul {
+  margin-top: 150px;
+}
+
+  section, .container .row .col h2 {
   margin-top: 100px;
   margin-bottom: 100px;
 }
