@@ -59,3 +59,23 @@ section,
 .container .row .col-3 .card-body .btn {
   margin-top: 10px;
 }
+
+.works {
+  margin-top: 200px !important;
+}
+
+.form-container {
+  grid-gap: 50px;
+}
+
+.form button {
+  background-color: #f55800 !important;
+}
+
+.form {
+  padding-bottom: 100px;
+}
+
+footer li {
+  color: #505f79;
+}
