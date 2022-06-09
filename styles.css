@@ -1,0 +1,81 @@
+header {
+  padding-right: 150px;
+  padding-left: 150px;
+  background-color: #3e3c3c;
+}
+
+.info {
+  color: #f55800;
+  font-size: 72px;
+}
+
+.info-container {
+  padding-top: 250px;
+}
+
+.intro-section {
+  background-color: #1c1a19;
+  background-image: url(./images/intro-bg.svg);
+  background-repeat: no-repeat;
+  background-position: 100% 30%;
+  padding-bottom: 290px;
+  height: calc(100vh - 90px);
+}
+
+.intro-section ul {
+  margin-top: 150px;
+}
+
+section,
+.container .row .col h2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+section,
+.container .row .col .card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-style: hidden;
+  border-radius: none;
+}
+
+section,
+.container .row .col .card .card-img-overlay {
+  margin-top: 220px;
+}
+
+section,
+.container .row .col-3 .card-body {
+  margin-left: 30px;
+}
+
+section,
+.container .row .col-3 .card-body p {
+  margin-top: 10px;
+}
+
+section,
+.container .row .col-3 .card-body .btn {
+  margin-top: 10px;
+}
+
+.works {
+  margin-top: 200px !important;
+}
+
+.form-container {
+  grid-gap: 50px;
+}
+
+.form button {
+  background-color: #f55800 !important;
+}
+
+.form {
+  padding-bottom: 100px;
+}
+
+footer li {
+  color: #505f79;
+}
