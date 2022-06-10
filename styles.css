@@ -19,7 +19,7 @@ header {
   background-repeat: no-repeat;
   background-position: 100% 30%;
   padding-bottom: 290px;
-  height: calc(100vh - 90px);
+  height: calc(100vh - -150px);
 }
 
 .intro-section ul {
