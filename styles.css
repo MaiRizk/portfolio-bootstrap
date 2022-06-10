@@ -85,6 +85,10 @@ section,
   margin-bottom: 30px;
 }
 
+footer li {
+  color: #505f79;
+}
+
 .about-me .container .row .col ul li {
   margin-left: 110px;
   padding: 10px;
@@ -104,8 +108,4 @@ section,
 
 .form {
   padding-bottom: 100px;
-}
-
-footer li {
-  color: #505f79;
 }
